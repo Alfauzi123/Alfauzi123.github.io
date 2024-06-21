@@ -85,7 +85,7 @@ INSERT INTO `guru` (`id_guru`, `nip`, `nama`, `jenis_kelamin`, `status`) VALUES
 CREATE TABLE `kelas` (
   `id_kelas` int(10) UNSIGNED NOT NULL,
   `tingkat_kelas` enum('X','XI','XII') COLLATE utf8mb4_unicode_ci NOT NULL,
-  `jurusan` enum('RPL','TKJ','MM') COLLATE utf8mb4_unicode_ci NOT NULL,
+  `jurusan` enum('TAHFIDZ','TAUHID','KITAB KUNING') COLLATE utf8mb4_unicode_ci NOT NULL,
   `nama_kelas` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
   `kuota` int(11) NOT NULL,
   `tahun_masuk` year(4) NOT NULL,
