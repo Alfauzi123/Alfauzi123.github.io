@@ -1,8 +1,8 @@
 ## Powered By
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## Tentang Absensi Siswa
-Absensi Siswa adalah aplikasi mengenai absen siswa yang terdapat fitur rekap kehadiran, kelas, serta siswa dan histori nya, juga terdapat laporan sesuai periode yang diinginkan
+## Tentang Absensi Santri
+Absensi Siswa adalah aplikasi mengenai absen santri yang terdapat fitur rekap kehadiran, kelas, serta siswa dan histori nya, juga terdapat laporan sesuai periode yang diinginkan
 
 ## Tutorial
 <ol>
